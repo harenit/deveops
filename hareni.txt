@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am fine.better day.
+=======
+hi i am fine.i am good
+>>>>>>> 7ecc488259950d5924b79379c328e107baf0c3b3
